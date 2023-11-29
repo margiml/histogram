@@ -13,6 +13,7 @@ The file will have the same name as the input file but with the .hist extension
 
 For example, if the file contains a line with: abCc
 The result will be seen as follows:
-c -> 2
-a -> 1
-b -> 1
+
+  c -> 2
+  a -> 1
+  b -> 1
